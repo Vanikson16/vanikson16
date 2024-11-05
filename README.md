@@ -24,6 +24,6 @@
   <a href="https://instagram.com/silva.vanikson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://whatsapp.com/+55 88 9943-5881" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"</a>
   <a href = "vanikson.silva@aluno.ce.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/vanikson-silva-02aa4b336/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
